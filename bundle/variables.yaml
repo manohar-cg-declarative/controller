@@ -1,0 +1,4 @@
+variables:
+- team: manohar-cg-declarative
+- admin-user: kmanoha1-admin
+- manager-user: kmanoha1
